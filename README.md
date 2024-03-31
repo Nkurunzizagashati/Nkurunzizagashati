@@ -47,3 +47,5 @@
 <img src="./.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
+
+![Snake animation](https://github.com/Nkurunzizagashati/Nkurunzizagashati/snake.svg)

@@ -48,4 +48,4 @@
 
 ###
 
-![Snake animation](https://github.com/Nkurunzizagashati/Nkurunzizagashati/snake.svg)
+![Snake animation](https://github.com/Nkurunzizagashati/Nkurunzizagashati/bob/snake.svg)

@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! I'm Fabrice NKURUNZIZA, a fullstack developer</h2>
+<h2 align="left">Hi 👋, I'm Fabrice NKURUNZIZA; <br>
+ a fullstack developer</h2>
 
 ###
 

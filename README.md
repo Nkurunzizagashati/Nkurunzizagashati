@@ -20,6 +20,6 @@ I'm a fullstack developer
 
 ###
 
-![Snake animation](https://github.com/yourusername/yourrepositoryname/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/Nkurunzizagashati/Nkurunzizagashati/output/snake.svg" alt="Snake animation" />
 
 ###
